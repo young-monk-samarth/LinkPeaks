@@ -14,7 +14,7 @@ const LinktreeApp = () => {
     {
       title: "GitHub Profile",
       description: "Explore my open source contributions",
-      url: "https://github.com/young-monk-samarth",
+      url: "https://github.com/SAMARTH-MUKTAMATH",
       icon: <Github className="w-5 h-5" />
     },
     {
